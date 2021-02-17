@@ -55,18 +55,19 @@
         color: white;
         background-color: black
     }
-li a {
-    width: 150px;
-    align-content: center;
-    text-decoration: none;
-    color: black;
-}
+
+    li a {
+        width: 150px;
+        align-content: center;
+        text-decoration: none;
+        color: black;
+    }
 
 
 
-li a:hover:not(.active) {
-    border-bottom: 2px solid #E6007E;
-}
+    li a:hover:not(.active) {
+        border-bottom: 2px solid #E6007E;
+    }
 
     .zoom img {
         width: 100%;
@@ -106,13 +107,13 @@ li a:hover:not(.active) {
         overflow: hidden;
     }
 
-button {
-    background-color:#E6007E;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align:center;
-    text-decoration:none;
-    display:inline-block;
-    font-size: 16px;
+    button {
+        background-color: #E6007E;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
     }
