@@ -94,11 +94,17 @@
         height: auto;
     }
 
+    .fadingbox:hover img{
+        background-color: white;
+        opacity: 0.4;
+        transition-duration: 0.5s;
+    }
+
     .box .btn {
         background-color: #E6007E;
         border: none;
         color: white;
-        padding: 15px 32px;
+        padding: 1em 2em;
         text-align: center;
         text-decoration: none;
         display: inline-block;
