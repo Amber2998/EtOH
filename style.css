@@ -94,6 +94,9 @@
         height: auto;
     }
 
+    .fadingbox img{
+       transition-duration: 0.5s;
+    }
     .fadingbox:hover img{
         background-color: white;
         opacity: 0.4;
