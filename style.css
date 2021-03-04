@@ -16,6 +16,11 @@
         color: #E6007E;
     }
 
+    h4 {
+        font-family: "Arial", Arial, bold;
+        font-size: 12px;
+        color: gray;
+    }
 
     p {
         font-family: "Roboto", Roboto, sans-serif;
